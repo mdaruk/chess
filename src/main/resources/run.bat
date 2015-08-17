@@ -1,0 +1,1 @@
+java daruk.pl.ChessChallenge output.txt 7 7 2 2 2 0 1
